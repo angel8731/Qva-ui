@@ -8,7 +8,7 @@
 
 const prefixCls = 'qva-radio-group';
 
-import { oneOf, findComponentUpward, findComponentsDownward } from '../../utils/assist.js';
+import { oneOf, findComponentUpward, findComponentsDownward } from '../../../utils/assist.js';
 
 export default {
     name : 'RadioGroup',

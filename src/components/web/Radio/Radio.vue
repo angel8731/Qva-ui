@@ -17,7 +17,7 @@
 
 const prefixCls = 'qva-radio';
 
-import { findComponentUpward,findComponentDownward } from '../../utils/assist.js';
+import { findComponentUpward,findComponentDownward } from '../../../utils/assist.js';
 
 export default {
     name: 'Radio',

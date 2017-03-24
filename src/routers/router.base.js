@@ -8,11 +8,11 @@ const router = {
         },
         {
             path: '/radio',
-            component: require('../../examples/radio.vue')
+            component: require('../../examples/web/radio.vue')
         },
         {
             path: '/rate',
-            component: require('../../examples/rate.vue')
+            component: require('../../examples/web/rate.vue')
         }
     ]
 }
